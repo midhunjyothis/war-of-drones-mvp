@@ -1,0 +1,9 @@
+# Unreal Engine build and temp files
+*.log
+*.tmp
+DerivedDataCache/
+Binaries/
+Intermediate/
+Saved/
+.vscode/
+.idea/
